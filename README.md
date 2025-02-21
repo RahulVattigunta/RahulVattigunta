@@ -32,11 +32,15 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
+
+## 📊 **My Activity:**
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,adobe" /><br>
+  
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=RahulVattigunta&show_icons=true&count_private=true&theme=transparent&locale=en" alt="Rahul Stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulVattigunta&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Rahul" />
+  
 </div>
 
 <br/>
