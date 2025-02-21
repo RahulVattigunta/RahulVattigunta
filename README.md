@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Vattigunta!;" />
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer/Graphic Designer/Business Analyst from United States 🇺🇸</h3>
+<h3 align="center">A passionate Full Stack Developer/UI/UX Designer/Business Analyst from United States 🇺🇸</h3>
 
 <br/>
 
@@ -31,7 +31,11 @@
 </div>
 
  <hr/>
- 
+ <p align="center">
+  <!-- First set of skills -->
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,java,scala,typescript,git,github,azure,gcp,aws,linux,jenkins,vscode,visualstudio,pycharm,postman,idea,eclipse,blender,sklearn,bootstrap,django,html,css,js,php,mysql,selenium" />
+</p>
+
 
 
 ## 📊 **My Activity:**
@@ -46,8 +50,6 @@
 <br/>
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulVattigunta&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="Rahul Vattigunta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulVattigunta&show_icons=true&locale=en&cache_seconds=86400" alt="Rahul Vattigunta" /></p>
 
 
