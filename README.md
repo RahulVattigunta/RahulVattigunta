@@ -42,4 +42,7 @@
 <br/>
 <hr/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulvattigunta&show_icons=true&locale=en&layout=compact" alt="rahulvattigunta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulvattigunta&show_icons=true&locale=en" alt="rahulvattigunta" /></p>
 
