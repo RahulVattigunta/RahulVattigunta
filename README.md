@@ -42,8 +42,8 @@
 <br/>
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul Vattigunta&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="Rahul Vattigunta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulVattigunta&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="Rahul Vattigunta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul Vattigunta&show_icons=true&locale=en&cache_seconds=86400" alt="Rahul Vattigunta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulVattigunta&show_icons=true&locale=en&cache_seconds=86400" alt="Rahul Vattigunta" /></p>
 
 
