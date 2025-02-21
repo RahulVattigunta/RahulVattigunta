@@ -12,7 +12,6 @@
  
  🔭 I’m currently working on **Various Projects**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS, GenAI**
  
  💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/RahulVattigunta/RahulVattigunta/issues)**
 
